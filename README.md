@@ -13,3 +13,8 @@ foreach($arr as $item) { //foreach element in $arr
     $uses = $item['var1']; //etc
 }
 ```
+#### Remove text between [ ]
+https://stackoverflow.com/questions/12195265/remove-text-between
+```
+$input = preg_replace('/\[[^\]]*\]\W*/i', '', $input);
+```
