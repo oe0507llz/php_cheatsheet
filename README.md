@@ -18,3 +18,6 @@ https://stackoverflow.com/questions/12195265/remove-text-between
 ```
 $input = preg_replace('/\[[^\]]*\]\W*/i', '', $input);
 ```
+
+#### How to add elements to an empty array in PHP?
+https://stackoverflow.com/questions/676677/how-to-add-elements-to-an-empty-array-in-php
