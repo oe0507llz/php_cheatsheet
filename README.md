@@ -21,3 +21,13 @@ $input = preg_replace('/\[[^\]]*\]\W*/i', '', $input);
 
 #### How to add elements to an empty array in PHP?
 https://stackoverflow.com/questions/676677/how-to-add-elements-to-an-empty-array-in-php
+
+#### Check if string contains a value in array
+https://stackoverflow.com/questions/19445798/check-if-string-contains-a-value-in-array
+
+#### How to remove duplicate values from an array in PHP
+https://stackoverflow.com/questions/307650/how-to-remove-duplicate-values-from-an-array-in-php
+```
+$array = array(1, 2, 2, 3);
+$array = array_unique($array); // Array is now (1, 2, 3)
+```
