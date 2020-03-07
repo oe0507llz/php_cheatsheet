@@ -31,3 +31,8 @@ https://stackoverflow.com/questions/307650/how-to-remove-duplicate-values-from-a
 $array = array(1, 2, 2, 3);
 $array = array_unique($array); // Array is now (1, 2, 3)
 ```
+
+#### Associative Arrays in PHP
+https://www.geeksforgeeks.org/associative-arrays-in-php/
+
+
