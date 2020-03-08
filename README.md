@@ -35,4 +35,7 @@ $array = array_unique($array); // Array is now (1, 2, 3)
 #### Associative Arrays in PHP
 https://www.geeksforgeeks.org/associative-arrays-in-php/
 
+#### Download file from URL and save locally using PHP
+https://kodemate.com/download-file-from-url-and-save-locally-using-php/
+
 
