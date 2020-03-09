@@ -38,4 +38,9 @@ https://www.geeksforgeeks.org/associative-arrays-in-php/
 #### Download file from URL and save locally using PHP
 https://kodemate.com/download-file-from-url-and-save-locally-using-php/
 
+#### PHP str_replace replace spaces with underscores
+https://stackoverflow.com/questions/12704613/php-str-replace-replace-spaces-with-underscores
+```
+$journalName = preg_replace('/\s+/', '_', $journalName);
+```
 
