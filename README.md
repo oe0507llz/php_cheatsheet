@@ -51,3 +51,6 @@ preg_replace('/[:\s+}/', '_', date("Y-m-d H:i:s", time()))
 
 #### Twitter API Tutorial: How to Create and Get Tweets Using PHP and the Twitter API
 https://www.youtube.com/watch?v=1ItudXGjLpM
+
+#### PHP Tutorials - Twitter API Search Tweets or Hashtags v2
+https://www.youtube.com/watch?v=23Hgrb92joU
