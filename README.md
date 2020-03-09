@@ -54,3 +54,10 @@ https://www.youtube.com/watch?v=1ItudXGjLpM
 
 #### PHP Tutorials - Twitter API Search Tweets or Hashtags v2
 https://www.youtube.com/watch?v=23Hgrb92joU
+
+#### Remove apostrophe from a string using php
+https://stackoverflow.com/questions/25256341/remove-apostrophe-from-a-string-using-php
+```
+$Str = str_replace("'", '', $Str);
+```
+
