@@ -48,3 +48,6 @@ $journalName = preg_replace('/\s+/', '_', $journalName);
 ```
 preg_replace('/[:\s+}/', '_', date("Y-m-d H:i:s", time()))
 ```
+
+#### Twitter API Tutorial: How to Create and Get Tweets Using PHP and the Twitter API
+https://www.youtube.com/watch?v=1ItudXGjLpM
