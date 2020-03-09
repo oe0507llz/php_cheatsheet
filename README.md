@@ -44,3 +44,7 @@ https://stackoverflow.com/questions/12704613/php-str-replace-replace-spaces-with
 $journalName = preg_replace('/\s+/', '_', $journalName);
 ```
 
+#### Replace colon and space with underscores for time
+```
+preg_replace('/[:\s+}/', '_', date("Y-m-d H:i:s", time()))
+```
