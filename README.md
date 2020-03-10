@@ -61,3 +61,8 @@ https://stackoverflow.com/questions/25256341/remove-apostrophe-from-a-string-usi
 $Str = str_replace("'", '', $Str);
 ```
 
+#### Strip off URL parameter with PHP
+https://stackoverflow.com/questions/4937478/strip-off-url-parameter-with-php
+```
+ $url = strtok($url, '?');
+```
