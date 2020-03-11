@@ -66,3 +66,6 @@ https://stackoverflow.com/questions/4937478/strip-off-url-parameter-with-php
 ```
  $url = strtok($url, '?');
 ```
+
+#### file_put_contents: Failed to open stream, no such file or directory
+https://stackoverflow.com/questions/14783592/file-put-contents-failed-to-open-stream-no-such-file-or-directory
