@@ -69,3 +69,7 @@ https://stackoverflow.com/questions/4937478/strip-off-url-parameter-with-php
 
 #### file_put_contents: Failed to open stream, no such file or directory
 https://stackoverflow.com/questions/14783592/file-put-contents-failed-to-open-stream-no-such-file-or-directory
+
+#### PHP Simple HTML DOM Parser
+https://simplehtmldom.sourceforge.io/ <br>
+https://www.endpoint.com/blog/2016/07/07/scrape-web-content-with-php-no-api-no
