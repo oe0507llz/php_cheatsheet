@@ -73,3 +73,6 @@ https://stackoverflow.com/questions/14783592/file-put-contents-failed-to-open-st
 #### PHP Simple HTML DOM Parser
 https://simplehtmldom.sourceforge.io/ <br>
 https://www.endpoint.com/blog/2016/07/07/scrape-web-content-with-php-no-api-no
+
+#### Using Google Charts with PHP
+https://www.youtube.com/watch?v=jVmVyDcOH3g
