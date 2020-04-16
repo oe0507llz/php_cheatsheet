@@ -76,3 +76,8 @@ https://www.endpoint.com/blog/2016/07/07/scrape-web-content-with-php-no-api-no
 
 #### Using Google Charts with PHP
 https://www.youtube.com/watch?v=jVmVyDcOH3g
+
+#### Passing variable from JS to PHP
+https://stackoverflow.com/questions/23541989/passing-variable-from-js-to-php-within-the-same-page
+https://stackoverflow.com/questions/8191124/send-javascript-variable-to-php-variable
+https://stackoverflow.com/questions/1917576/how-do-i-pass-javascript-variables-to-php
